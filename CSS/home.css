@@ -105,7 +105,7 @@ etiqueta {
 }
 #bienvenida::before {
 	content: "";
-	background-image: url(../Mostrador-rec.jpg);
+	background-image: url(Mostrador-rec.jpg);
 	background-size: cover;
 	position: absolute;
 	z-index: -1;
